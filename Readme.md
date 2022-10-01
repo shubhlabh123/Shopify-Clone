@@ -23,7 +23,7 @@ Created Shopify-Clone using Tailwind CSS.
 
 ## Screenshot:
 
-![shopify-clone-image]()
+![shopify-clone-image](./Screenshot.png)
 
 
 
