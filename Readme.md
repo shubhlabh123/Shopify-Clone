@@ -12,7 +12,7 @@ Created Shopify-Clone using Tailwind CSS.
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML5%20%7C%20TailwindCSS-blue)
 
 ## Website Link (Responsive):
-### [Live](https://shopsomu.netlify.app/)
+### [Live](https://shopify-clone-n7fj-83b6gndhz-shubhamsomvanshi732-gmailcom.vercel.app/)
 
 ## Skills Gained in this project:
    - Tailwind
