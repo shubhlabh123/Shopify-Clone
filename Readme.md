@@ -1,5 +1,5 @@
  
-# Shopify-Clon
+# Shopify-Clone
 ## FULL STACK JS Assignment
 Created Shopify-Clone using Tailwind CSS.
 
